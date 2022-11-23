@@ -1,0 +1,352 @@
+/* MAKHAN */
+
+
+
+#ndieulbene{
+    background-image: url(./img/Group\ 179.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+    background-size: cover;
+    color: white;
+    
+}
+.derniere{
+    background-image: url(./img/Backgroundfooter.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    
+
+    background-size: cover;
+    color: white;
+}
+.fr{
+    background-image: url('./img/pointillé.png');
+    background-repeat: no-repeat;
+    background-position-x: 15%;
+
+}
+.mien{
+    background: #FF6701;
+    color: white;
+border-radius: 50px;
+Width:215px;
+Height:59px;
+}
+.mien1{
+    background: #FF6701;
+    color: white;
+border-radius: 50px;
+width: 132px;
+height: 40px;
+}
+
+
+
+
+
+
+
+/* MAKHAN */
+
+
+
+/* NIANG*/
+.h1{
+    margin-left: 10%;
+}
+.pik{
+    margin-left: -48%;
+} 
+.grid{
+    background-image: url(./imgs/mou.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    margin-left: -10%;
+    margin-top: 10%;
+    height: 500px;
+}
+.mm{
+    margin-top: -52%;
+    margin-left: 137%;
+}
+
+.rr{
+    border-radius: 8px;
+    margin-left: 10%;
+    margin-top: -20%;
+}
+.p3{
+    margin-left: 5%;
+    width: 100%;
+}
+
+.col-6-md{
+    background-image: url(./imgs/ax.png);
+    background-repeat: no-repeat;
+    background: flex;
+    margin-left: 5%;
+    
+    
+}
+.io{
+    margin-left: 80%;
+    margin-top: -45%;
+}
+.col-xs-9{
+    margin-left: 20%;
+}
+
+
+
+
+/* NIANG*/
+
+
+
+/* TIMERA*/
+
+*, ::after, ::before{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0; 
+    /* overflow-x: hidden; */
+
+
+}
+
+.icon1{
+    margin-left: 122px;
+}
+
+.conten1{
+    padding: 90px 40px;
+}
+
+.backk1{
+    background: url(./imagibra/Rectangle\ 195.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 39px;
+    width: 40px;
+
+}
+
+.backk2{
+    background: url(./imagibra/Rectangle\ 195.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40px;
+    width: 40px;
+
+}
+
+.speci1{
+    margin-top: 195px;
+}
+
+.bacphon{
+    /* z-index: -1; */
+    background: url(./imagibra/Exclusion\ 3.png)no-repeat;
+    /* background-size: cover; */
+    background-position: center;
+    /* position: relative; */
+    /* left: 40px; */
+    /* height: 10%; */
+    /* width: 100px; */
+}
+
+.phone1{
+    margin-right: 65px;
+    margin-top: -35px;
+}
+
+.elip31{
+    margin-left: 325px;
+    margin-bottom: -15px;
+}
+
+.elip19{
+    margin-left: -16px;
+    margin-bottom: -370px;
+}
+
+
+/* TIMERA*/
+
+
+/* FATOULAHI NDOUR*/
+.fatou{
+    background-image: url(images/Exclusion\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center; }
+
+
+
+
+
+
+
+
+
+
+
+/* FATOULAHI NDOUR*/
+
+/* BARRY*/
+
+
+.riba{
+    margin-top: 90px;
+    /* margin-bottom: 130px; */
+}
+
+.mono{
+    margin: auto;
+}
+
+.polo{
+    border-radius: 50px;
+    margin: auto;
+}
+
+.ptn{
+    height: 10px;
+    color: aliceblue;
+}
+
+.pyky{
+    font-size: 17px;
+}
+.pyk{
+    font-size: 13px;
+}
+
+.phot{
+    margin-top: 15px;
+}
+
+.trait{
+    margin: auto;
+}
+
+.pera{
+    border: 1px solid rgba(14, 13, 13, 0.74);
+    border-radius: 6px;
+}
+
+.pass{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+span{
+    font-size: 17px;
+    opacity: 0.4;
+    font-weight: lighter;
+}
+
+.iloy{
+
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 46%;
+    margin-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* BARRY*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:687px){
+    .p3{
+        font-weight: 500;
+        width: 100%;
+        font-size: 90%;
+        display: flex;
+    }
+    .col-xs-12{
+        width: 100%;
+        margin-top: 60%;
+    }
+    .go{
+        width: 50px;
+        margin-left: -50px;
+
+    
+    }
+    .rr{
+        width: 100%;
+        margin-bottom: 5%;
+        
+    }
+    .ff{
+
+        
+        width: 120%;
+        margin-top: 30%;
+    
+    }
+    
+    .pik{
+        margin-left: 5%;
+        width: 100%;
+    }
+    /* .mm{
+        margin-left: -35;
+    } */
+
+
+}
